@@ -15,7 +15,7 @@ function __autoload($class)
     }
 }
 
-define('BASE_SITE', 'http://127.0.0.1/Escolar/');
+define('BASE_SITE', 'http://127.0.0.1/Escolar/GerenciarURL/');
 define('TITLE_SITE', 'Sistema de Gerenciamento Escolar');
 
 $rota = new Rota();
